@@ -1,0 +1,19 @@
+{
+  "config": {
+    "palavras_chave": ["estágio", "estagio", "estagiário", "estagiario", "intern"],
+    "areas_de_interesse": ["python", "desenvolv", "software", "dados", "data", "backend", "back-end", "full stack", "fullstack"],
+    "locais_aceitos": ["curitiba", "remoto", "remote"],
+    "localizacao": "Curitiba",
+    "delay_segundos": 4,
+    "similaridade_titulo_minima": 0.6,
+    "similaridade_empresa_minima": 0.8
+  },
+  "empresas": [
+    { "nome": "Ebanx", "tipo": "greenhouse", "token": "ebanx" },
+    { "nome": "Arco Educação", "tipo": "greenhouse", "token": "arcoeducacao" },
+    { "nome": "Banco Inter", "tipo": "greenhouse", "token": "inter" },
+    { "nome": "ília", "tipo": "greenhouse", "token": "ilia" },
+    { "nome": "RD Station", "tipo": "greenhouse", "token": "rdstation" },
+    { "nome": "CI&T", "tipo": "lever", "token": "ciandt" }
+  ]
+}

@@ -5,7 +5,7 @@ Script em Python que procura vagas de estágio direto nas páginas de carreiras 
 ## Instalação
 
 ```
-git clone https://github.com/SEU-USUARIO/vagas-diretas.git
+git clone https://github.com/bruno-luiz-fogaca/vagas-diretas.git
 cd vagas-diretas
 python -m venv .venv
 .venv\Scripts\Activate.ps1
